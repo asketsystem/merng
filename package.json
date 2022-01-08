@@ -7,5 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "asketsystem",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.6.1",
+    "graphql": "^16.2.0",
+    "mongoose": "^6.1.5"
+  }
 }
